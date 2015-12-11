@@ -1,0 +1,20 @@
+{
+  "name": "udemy-mean-stack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/jasonshark/udemy-mean-stack.git"
+  },
+  "author": "Connor Leech",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/jasonshark/udemy-mean-stack#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "mongoose": "^4.3.0"
+  }
+}
