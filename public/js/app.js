@@ -1,6 +1,8 @@
 
 var app = angular.module('myapp', [
-	'ui.router'
+	'ui.router',
+	'stormpath', 
+	'stormpath.templates'
 ]);
 
 app.config(function($stateProvider, $urlRouterProvider, $locationProvider){
